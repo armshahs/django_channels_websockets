@@ -1,0 +1,5 @@
+2024-05-27 17:03:34,375: INFO - django.utils.autoreload autoreload.py (line668). Watching for file changes with StatReloader
+2024-05-27 17:03:36,421: WARNING - django.request log.py (line241). Not Found: /
+2024-05-27 17:03:36,638: WARNING - django.request log.py (line241). Not Found: /favicon.ico
+2024-05-27 17:05:00,016: INFO - django.utils.autoreload autoreload.py (line668). Watching for file changes with StatReloader
+2024-05-27 17:05:45,437: INFO - django.utils.autoreload autoreload.py (line266). C:\Users\Shahrukh\OneDrive\Shahrukh\Coding\Python_Django\19.Django_Redis_Cache\django_redis_caching\planner\settings.py changed, reloading.
